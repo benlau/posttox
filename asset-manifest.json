@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/posttox/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/posttox/static/js/main.f75ada3c.chunk.js",
-    "main.js.map": "/posttox/static/js/main.f75ada3c.chunk.js.map",
+    "main.js": "/posttox/static/js/main.8f876030.chunk.js",
+    "main.js.map": "/posttox/static/js/main.8f876030.chunk.js.map",
     "runtime-main.js": "/posttox/static/js/runtime-main.f7f010e6.js",
     "runtime-main.js.map": "/posttox/static/js/runtime-main.f7f010e6.js.map",
     "static/js/2.b218ca72.chunk.js": "/posttox/static/js/2.b218ca72.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f7f010e6.js",
     "static/js/2.b218ca72.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f75ada3c.chunk.js"
+    "static/js/main.8f876030.chunk.js"
   ]
 }
