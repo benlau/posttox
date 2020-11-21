@@ -5,14 +5,14 @@ PostToX is a tool to help a user to post a message to multiple SNS easily. It is
 
 [Try it](https://benlau.github.io/posttox/)
 
-![Screenshot](https://raw.githubusercontent.com/benlau/posttox/main/docs/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/benlau/posttox/main/docs/img/screenshot.png)
 
 User guide
 -----------
 
 1. Type your message in the text field
 
-2. Click the "Post" button for your favorite SNS. It will launch the SNS site and fill in the text you have typed. Review and confirm the submission.
+2. Click the "Post" button on your favorite SNS. It will launch the SNS site and fill in the text you have typed. Review and confirm the submission.
 
 3. In case the "Post" button is missing, it means the SNS doesn't support this feature. Instead, you may press the "Copy" button (below the text field) to copy to the clipboard. And then press the "Open" button, it will launch the regular site, and you may paste the text to the site's post message box.
 
@@ -28,6 +28,17 @@ Unfortunately, image posting is not supported. There is a tip to post images to 
 3. Copy the image to the clipboard
 
 4. Go through all the opened tab, paste the image, and confirm the submission.
+
+Supported SNS
+-------------
+
+ 1. Mastodon
+ 1. MeWe
+ 1. Parler
+ 1. Plurk
+ 1. gab
+ 1. Twitter
+ 1. Facebook
 
 Future Plan
 -----
