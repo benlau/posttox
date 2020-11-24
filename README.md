@@ -16,6 +16,8 @@ User guide
 
 3. In case the "Post" button is missing, it means the SNS doesn't support this feature. Instead, you may press the "Copy" button (below the text field) to copy to the clipboard. And then press the "Open" button, it will launch the regular site, and you may paste the text to the site's post message box.
 
+[Chinese Version](https://medium.com/unlimited-build-works/posttox-820c9fa5e91f)
+
 Posting Image
 ----------
 
